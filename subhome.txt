@@ -1,5 +1,3 @@
 first-second
 intermedio
-unSYNC
-DOS
-.
+CUT
