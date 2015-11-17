@@ -1,5 +1,4 @@
 INOCENTE
 again
 unSYNC
-DOS
-MORE
+----MORE
